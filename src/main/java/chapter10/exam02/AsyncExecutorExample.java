@@ -1,4 +1,4 @@
-package chapter10;
+package chapter10.exam02;
 
 import java.util.concurrent.Executor;
 
